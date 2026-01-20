@@ -1,4 +1,3 @@
-// Minimal p5.js demo showing mouse coordinates near the cursor
 function setup() {
   createCanvas(windowWidth, windowHeight);
   textSize(14);
