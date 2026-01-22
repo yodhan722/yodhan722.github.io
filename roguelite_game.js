@@ -1,16 +1,17 @@
 var programCode = function(processingInstance) {
-with (processingInstance) {
-    size(600, 400); 
-    frameRate(30);
+    with (processingInstance) {
+        size(600, 400); 
+        frameRate(30);
         
-    function drawPlayer() {
-        var x = 300;
-        var y = 200;
-    }
+        function drawPlayer() {
+            var x = 300;
+            var y = 200;
+        }
     
-    fill(51, 105, 232);
-    rect(drawPlayer.x, drawPlayer.y, 70, 70);
-}};
+        fill(51, 105, 232);
+        rect(drawPlayer.x, drawPlayer.y, 70, 70);
+    }
+};
 
 var canvas = document.getElementById("rogueliteCanvas"); 
 var processingInstance = new Processing(canvas, programCode)
