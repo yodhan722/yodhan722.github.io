@@ -6,10 +6,10 @@ with (processingInstance) {
     function drawPlayer() {
         var x = 300;
         var y = 200;
-
-        fill(51, 105, 232);
-        rect(x, y, 70, 70);
     }
+    
+    fill(51, 105, 232);
+    rect(drawPlayer.x, drawPlayer.y, 70, 70);
 }};
 
 var canvas = document.getElementById("rogueliteCanvas"); 
