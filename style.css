@@ -1,3 +1,7 @@
+p, h1 {
+    font-family: sans-serif;
+}
+
 header {
     background-color: rgb(21, 97, 240);
     margin-left:0%;
