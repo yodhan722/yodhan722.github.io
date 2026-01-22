@@ -7,6 +7,7 @@ with (processingInstance) {
         var x = 300;
         var y = 200;
 
+        fill(51, 105, 232);
         rect(x, y, 70, 70);
     }
 }};
