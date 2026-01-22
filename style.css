@@ -5,6 +5,12 @@
     background-color: #f0f0f0
 }
 
+#sidebar h1 {
+    display: block;
+    margin-bottom: 10px;
+    text-decoration: none;
+}
+
 #sidebar a {
     display: block;
     margin-bottom: 10px;
