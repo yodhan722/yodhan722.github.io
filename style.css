@@ -4,9 +4,9 @@ p, h1 {
 
 #sidebar {
     background-color: rgb(65, 123, 231);
-    margin-left: 100%;
+    margin-left: 0%;
 }
 
 #text {
-    margin-right: 15%;
+    margin-left: 15%;
 }
