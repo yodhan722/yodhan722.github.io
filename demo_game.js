@@ -9,7 +9,7 @@ var programCode = function(processingInstance) {
         noFill();
         stroke(0, 0, 0);
         strokeWeight(2);
-        arc(200, 200, 150, 100, 0, PI);
+        arc(200, 200, 150, 100, 0, 180);
         fill(0, 0, 0);
         ellipse(250, 200, 10, 10);
         ellipse(153, 200, 10, 10);
