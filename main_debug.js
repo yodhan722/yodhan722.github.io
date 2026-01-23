@@ -1,6 +1,6 @@
 var programCode = function(processingInstance) {
     with (processingInstance) {
-    size(400, 400); 
+    size(600, 400); 
     frameRate(30);
         
     fill(255, 255, 0);
