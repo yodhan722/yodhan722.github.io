@@ -1,5 +1,4 @@
 #text {
-    color: rgb(255, 255, 255);
-    background-color: rgb(27, 62, 221);
-    width: 900px;
+    font: "Comic sans MS";
+    font-size: 16px;
 }
