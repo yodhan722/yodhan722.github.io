@@ -1,1 +1,1 @@
-window.open()
+window.open();
