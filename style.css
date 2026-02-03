@@ -2,6 +2,11 @@ body {
     background-color: #9BEDFB;
 }
 
-.textBox {
-    color: #E7F6B3;
+p {
+    color: #0260C4;
+}
+
+button {
+    border: #0260C4 2.4px;
+    background-color: #9BEDFB;
 }
