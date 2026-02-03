@@ -1,4 +1,8 @@
 body {
     background-color: #9BEDFB;
+}
+
+h1, h2, h3, h4, h5, h6, p, a {
+    color: #E7F6B3;
     text-shadow: #0260C4 2.4px;
 }
