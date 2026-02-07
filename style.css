@@ -2,7 +2,7 @@ body {
     background-color: #4478B3;
 }
 
-.textBox{
+#textBox{
     width: 900px;
 	border-color: #000000;
     border-style: solid;
