@@ -3,13 +3,13 @@ body {
 }
 
 .textBox{
-    width: 1060px;
+    width: 960px;
 	border-color: #000000;
     border-style: solid;
     margin-top: 10px;
 }
 
 .textBox #Side {
-    margin-right: 1080px;
+    margin-right: 980px;
     margin-top: 10px;
 }
