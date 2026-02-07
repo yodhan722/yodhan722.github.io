@@ -8,3 +8,8 @@ body {
     border-style: solid;
     margin-top: 10px;
 }
+
+.textBox #Side {
+    margin-right: 1080px;
+    margin-top: 10px;
+}
