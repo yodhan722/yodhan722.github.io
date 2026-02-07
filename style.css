@@ -1,0 +1,10 @@
+body {
+    background-color: #4478B3;
+}
+
+.textBox{
+    width: 1060px;
+	border-color: #000000;
+    border-style: solid;
+    margin-top: 10px;
+}
