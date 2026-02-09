@@ -1,11 +1,10 @@
 body {
-    background-color: #4478B3;
+    background-color: #7abdd0d5;
 }
 
 .textBox{
     width: 900px;
-	border-color: #000000;
+	border-color: #000000a4;
     border-style: solid;
-    border-radius: 10px;
     margin-top: 10px;
 }
