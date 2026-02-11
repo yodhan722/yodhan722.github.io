@@ -1,3 +1,9 @@
 body {
     background-color: #7abdd0d5;
 }
+
+h1, p {
+    width: 900px;
+    border: #45494b9f;
+    border-style: groove;
+}
