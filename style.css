@@ -4,6 +4,7 @@ body {
 
 h1, p {
     width: 900px;
+    backdrop-filter: blur(10px);
     border: #45494b9f;
     border-style: groove;
 }
