@@ -2,10 +2,16 @@ body {
     background-color: #7abdd0d5;
 }
 
-h1, p {
+p {
     width: 550px;
-	border: none;
+	font-size: 16px;
 }
+
+h1 {
+    width: 550px;
+	font-size: 32px;
+}
+
 
 button {
 	width: 150px;
