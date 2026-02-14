@@ -3,7 +3,11 @@ body {
 }
 
 h1, p {
-    width: 900px;
-    border: #45494b9f;
-    border-style: groove;
+    width: 550px;
+}
+
+button {
+	width: 150px;
+	height: 90px;
+	background-color: #ffffff;
 }
