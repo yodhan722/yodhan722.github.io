@@ -8,8 +8,13 @@ p {
 }
 
 h1 {
-    width: 550px;
+	background-color: #00c3ff;
+	min-height: 75px;
+	margin-top: -10px;
+	border: 5px solid #1abced;
+	border-radius: 20px;
 	font-size: 32px;
+	font-style: offs
 }
 
 
