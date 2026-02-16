@@ -7,13 +7,12 @@ p {
 }
 
 h1 {
-	background-color: #00c3ff;
+	background-color: #ff9100;
 	min-height: 75px;
 	margin-top: -10px;
-	border: 5px solid #1abced;
+	border: 5px solid #f29c2c;
 	border-radius: 20px;
 	font-size: 32px;
-	transform: skewX(10deg);
 }
 
 
