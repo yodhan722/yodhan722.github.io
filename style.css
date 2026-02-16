@@ -3,7 +3,6 @@ body {
 }
 
 p {
-    width: 550px;
 	font-size: 16px;
 }
 
@@ -14,7 +13,7 @@ h1 {
 	border: 5px solid #1abced;
 	border-radius: 20px;
 	font-size: 32px;
-	font-style: offs
+	transform: skewX(10deg);
 }
 
 
