@@ -28,4 +28,5 @@ button {
 	margin-top: 20px;
 	background-color: #ffffff;
 	display: block;
+	border: 3px solid #000000;
 }
