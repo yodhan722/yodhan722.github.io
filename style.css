@@ -1,5 +1,11 @@
 body {
+	background-color: #ffffff;
+}
+
+#top {
     background-color: #7abdd0d5;
+	margin-left: -0.8%;
+	width: 101.6%;
 }
 
 p {
