@@ -1,3 +1,16 @@
 body {
-	background-color: #a9b7cc;
+	background-color: #e4ede6;
+}
+
+#main {
+	margin-top: -250px;
+	margin-left: 80px;
+	position: absolute;
+}
+
+#sidebar {
+	min-height: 250px;
+	width: 75px;
+	background-color: #f0f2f5;
+	border: 2px;
 }
