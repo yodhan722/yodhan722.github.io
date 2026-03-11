@@ -2,16 +2,8 @@ body {
 	background-color: #b8d4de;
 }
 
-#main {
-	margin-top: -300px;
-	margin-left: 80px;
-	position: absolute;
-}
-
-#sidebar {
-	min-height: 300px;
-	width: 75px;
-	background-color: #f0f2f5;
-	border: 2px solid #bfc9c9;
-	border-radius: 10px;
+canvas {
+	width: 640px;
+	height: 480px;
+	background-color: #ffffff;
 }
