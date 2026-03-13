@@ -4,9 +4,14 @@
 		<title>Yodhan722's home</title>
 		<link rel="stylesheet" href="style.css">
 		<script src="assets/jquery-4.0.0.min.js" rel="text/js"></script>
+		<script>
+			$("html").ready(function() {
+				var url = prompt("What URL do you want to unblock? Make sure to use https://www. with the rest of the ");
+				$("body").append("<embed id='proxyEmbed' src=" + url + ">");
+			});
+		</script>
 	</head>
 	<body>
-		<h1>Proxy</h1>
-		<p>Coming soon...</p>
+		<h1>Website viewer</h1>
 	</body>
 </html>
