@@ -2,8 +2,7 @@ body {
 	background-color: #b8d4de;
 }
 
-canvas {
-	width: 640px;
+embed {
 	height: 480px;
-	background-color: #ffffff;
+	width: 640px;
 }
